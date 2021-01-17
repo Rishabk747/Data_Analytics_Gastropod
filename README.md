@@ -1,3 +1,3 @@
-# Master-Thesis-Project
-Topic: - "Geospatial database creation for Indo-Gangetic delta for source-to-sink relation mapping"
+# Data Analytics Gastropod Project
+Topic: - "Spatio-temporal variation in Gastropod origination and extinction rates across Phanerozoic"
 
